@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creveoolus&label=Profile%20views&color=0e75b6&style=flat" alt="creveoolus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creveoolus" alt="creveoolus" /></a> </p>
 
 - 🔭 I’m currently working on **an private project**
 
-- 🌱 I’m currently learning **javascript,**
+- 🌱 I’m currently learning **javascript**
 
 - 🤝 I’m looking for help with **javascript**
 
@@ -17,8 +16,6 @@
 
 - ⚡ Fun fact **i love capybarras**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
