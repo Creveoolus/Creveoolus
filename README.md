@@ -27,3 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creveoolus&" alt="creveoolus" /></p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+
