@@ -23,9 +23,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creveoolus&show_icons=true&locale=en&layout=compact" alt="creveoolus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creveoolus&show_icons=true&locale=en" alt="creveoolus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creveoolus&show_icons=true&locale=en&theme=vision-friendly-dark" alt="creveoolus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creveoolus&" alt="creveoolus" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creveoolus&theme=vision-friendly-dark" alt="creveoolus" /></p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/852783057287249931)](https://discord.com/users/852783057287249931)
 
