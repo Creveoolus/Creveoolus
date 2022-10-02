@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Creveoolus</h1>
 <h3 align="center">A python programmer from Russia</h3>
+<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852783057287249931)](https://discord.com/users/852783057287249931)</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creveoolus&label=Profile%20views&color=0e75b6&style=flat" alt="creveoolus" /> </p>
 
@@ -22,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creveoolus&theme=vision-friendly-dark" alt="creveoolus" /></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852783057287249931)](https://discord.com/users/852783057287249931)
+
 
