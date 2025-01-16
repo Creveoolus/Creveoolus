@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=py,cs,html,css,js,git" />
   </a>
 </p>
-<h3 align="center">🍺 Frameworks (5)</h3>
+<h3 align="center">🍺 Frameworks (4)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flask,fastapi,selenium,bots" />
@@ -20,7 +20,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,rider,figma,obsidian,postman" />
   </a>
 </p>
-<h3 align="center">🏓 Other stuff I know (5)</h3>
+<h3 align="center">🏓 Other stuff I know (11)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,github,gitlab,githubactions,docker,kubernetes,sqlite,postgres,md,nginx,qt" />
